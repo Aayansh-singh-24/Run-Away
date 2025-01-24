@@ -330,7 +330,7 @@ int main() {
 		{
 			window.draw(gameover);
 		}
-		else if (timer > 120.0f)
+		else if (timer < 0.0f)
 		{
 			window.draw(gameover);
 		}
