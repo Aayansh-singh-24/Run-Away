@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Users\lucif\Desktop\Run-Away\Run-Away\Run-Away\main.cpp(19,68): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\lucif\Desktop\Run-Away\Run-Away\Run-Away\main.cpp(19,68): warning C4244:         with
+C:\Users\lucif\Desktop\Run-Away\Run-Away\Run-Away\main.cpp(19,68): warning C4244:         [
+C:\Users\lucif\Desktop\Run-Away\Run-Away\Run-Away\main.cpp(19,68): warning C4244:             T=unsigned int
+C:\Users\lucif\Desktop\Run-Away\Run-Away\Run-Away\main.cpp(19,68): warning C4244:         ]
+C:\Users\lucif\Desktop\Run-Away\Run-Away\Run-Away\main.cpp(19,42): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\lucif\Desktop\Run-Away\Run-Away\Run-Away\main.cpp(19,42): warning C4244:         with
+C:\Users\lucif\Desktop\Run-Away\Run-Away\Run-Away\main.cpp(19,42): warning C4244:         [
+C:\Users\lucif\Desktop\Run-Away\Run-Away\Run-Away\main.cpp(19,42): warning C4244:             T=unsigned int
+C:\Users\lucif\Desktop\Run-Away\Run-Away\Run-Away\main.cpp(19,42): warning C4244:         ]
+C:\Users\lucif\Desktop\Run-Away\Run-Away\Run-Away\main.cpp(34,69): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\lucif\Desktop\Run-Away\Run-Away\Run-Away\main.cpp(34,69): warning C4244:         with
+C:\Users\lucif\Desktop\Run-Away\Run-Away\Run-Away\main.cpp(34,69): warning C4244:         [
+C:\Users\lucif\Desktop\Run-Away\Run-Away\Run-Away\main.cpp(34,69): warning C4244:             T=unsigned int
+C:\Users\lucif\Desktop\Run-Away\Run-Away\Run-Away\main.cpp(34,69): warning C4244:         ]
+C:\Users\lucif\Desktop\Run-Away\Run-Away\Run-Away\main.cpp(34,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lucif\Desktop\Run-Away\Run-Away\Run-Away\main.cpp(226,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\lucif\Desktop\Run-Away\Run-Away\Run-Away\main.cpp(322,21): warning C4018: '<': signed/unsigned mismatch
+  Run-Away.vcxproj -> C:\Users\lucif\Desktop\Run-Away\Run-Away\Debug\Run-Away.exe
