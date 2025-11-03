@@ -37,7 +37,7 @@ Before running the game, make sure you have:
    - Get the version for **Visual Studio 2022 (MSVC 17)**.
    - Extract it to a permanent location, e.g.  
      ```
-     C:\SFML-2.6.1\
+    C:\Users\Acer\Downloads\SFML-2.6.2-windows-vc17-64-bit
      ```
 
 2. **Open Project**
